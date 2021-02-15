@@ -15,8 +15,7 @@
 		F571B4AA25D82D6A00A4588E /* CupcakeCornerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F571B4A925D82D6A00A4588E /* CupcakeCornerUITests.swift */; };
 		F571B4BB25D9708500A4588E /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = F571B4BA25D9708500A4588E /* Order.swift */; };
 		F571B4CA25D9769E00A4588E /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F571B4C925D9769E00A4588E /* AddressView.swift */; };
-		F571B4CF25D976EF00A4588E /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F571B4CE25D976EF00A4588E /* CheckoutView.swift */; };
-		F571B4D425D9779300A4588E /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F571B4D325D9779300A4588E /* CheckoutView.swift */; };
+		F571B4D425D9779300A4588E /* CheckoutView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F571B4D325D9779300A4588E /* CheckoutView2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,8 +50,7 @@
 		F571B4AB25D82D6A00A4588E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F571B4BA25D9708500A4588E /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		F571B4C925D9769E00A4588E /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
-		F571B4CE25D976EF00A4588E /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
-		F571B4D325D9779300A4588E /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
+		F571B4D325D9779300A4588E /* CheckoutView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,7 +81,6 @@
 		F571B48025D82D6700A4588E = {
 			isa = PBXGroup;
 			children = (
-				F571B4CE25D976EF00A4588E /* CheckoutView.swift */,
 				F571B48B25D82D6700A4588E /* CupcakeCorner */,
 				F571B49D25D82D6A00A4588E /* CupcakeCornerTests */,
 				F571B4A825D82D6A00A4588E /* CupcakeCornerUITests */,
@@ -106,7 +103,7 @@
 			children = (
 				F571B48C25D82D6700A4588E /* CupcakeCornerApp.swift */,
 				F571B4C925D9769E00A4588E /* AddressView.swift */,
-				F571B4D325D9779300A4588E /* CheckoutView.swift */,
+				F571B4D325D9779300A4588E /* CheckoutView2.swift */,
 				F571B48E25D82D6700A4588E /* ContentView.swift */,
 				F571B4BA25D9708500A4588E /* Order.swift */,
 				F571B49025D82D6A00A4588E /* Assets.xcassets */,
@@ -273,8 +270,7 @@
 			files = (
 				F571B4BB25D9708500A4588E /* Order.swift in Sources */,
 				F571B48F25D82D6700A4588E /* ContentView.swift in Sources */,
-				F571B4D425D9779300A4588E /* CheckoutView.swift in Sources */,
-				F571B4CF25D976EF00A4588E /* CheckoutView.swift in Sources */,
+				F571B4D425D9779300A4588E /* CheckoutView2.swift in Sources */,
 				F571B48D25D82D6700A4588E /* CupcakeCornerApp.swift in Sources */,
 				F571B4CA25D9769E00A4588E /* AddressView.swift in Sources */,
 			);
